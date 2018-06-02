@@ -23,3 +23,8 @@ Adding New features on update 2:
 Now, the paint applcation saves your work every 10 seconds automatically.
 Press 'y' to undo the work if some error accidently crept your masterpeice.
 Press 't' to force save your work onto stack at any given time.
+
+Adding New Features on updata 3:
+
+Now, the paint application can save the pictures created into the memory.
+The function "slideShow" can be called by pressing 's'. This will create a slide show of all the drawings you created.
