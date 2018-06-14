@@ -28,3 +28,6 @@ Adding New Features on updata 3:
 
 Now, the paint application can save the pictures created into the memory.
 The function "slideShow" can be called by pressing 's'. This will create a slide show of all the drawings you created.
+
+Adding New Feature, EXE file, no need to install python dependencies, no need of python, the code runs on windows. Download :
+http://bit.ly/2JAMUZH [230 Mbs Approx] 
