@@ -1,4 +1,5 @@
-# Paint_Application_V1
+# Paint Application
+
 Paint Application using OpenCV, including many standard paint features. Custom color, 3 shapes, 255 * 255 * 255 different color options and clear command along with help button toggle makes it user friendly.
 
 #
@@ -12,6 +13,7 @@ Default brush is circle, and color is White.
 Press 'r' for rectange, press 'e' for ellipse and press 'o' for circle.
 Press 'c' to clear and 'esc' to exit.
 
+#
 
 Adding many changes to this, adding a lot of features to paint tool.
 
@@ -20,11 +22,15 @@ Adding TrackBars to change color of the paint.
 Adding Trackbar to change the size of the brush.
 Adding escape button to switch off the paint application.
 
+#
+
 Adding New features on update 2:
 
 Now, the paint applcation saves your work every 10 seconds automatically.
 Press 'y' to undo the work if some error accidently crept your masterpeice.
 Press 't' to force save your work onto stack at any given time.
+
+#
 
 Adding New Features on updata 3:
 
@@ -33,7 +39,7 @@ The function "slideShow" can be called by pressing 's'. This will create a slide
 
 #
 
-### Image Time
+### Images
 
 # 
 
